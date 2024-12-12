@@ -1,0 +1,11 @@
+{
+  "name": "c46cd4f7-7ee4-4423-9fec-806f53bcae91",
+  "displayName": "context:2513",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "ניקיון צואת כלבים רחוב",
+  "numTrainingPhrases": 2
+}

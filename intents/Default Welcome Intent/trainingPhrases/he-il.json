@@ -1,0 +1,83 @@
+{
+  "trainingPhrases": [ {
+    "id": "a454f78d-83e2-436d-9051-6c1752f3dec5",
+    "parts": [ {
+      "text": "ברכות",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "9b9924db-cb7a-4758-95f2-1cc65f69368a",
+    "parts": [ {
+      "text": "היי",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "97942957-c026-4a1d-8fdd-f5f0eb93bc51",
+    "parts": [ {
+      "text": "שלום שם",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "05ef28f5-de9a-42bc-8b1d-6003bcfb1e57",
+    "parts": [ {
+      "text": "רק הולך להגיד שלום",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "11aa5c2a-2890-4840-b491-513887cf7385",
+    "parts": [ {
+      "text": "שלום לך",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "4f134150-a745-47b4-bf47-10ff94b8ff0d",
+    "parts": [ {
+      "text": "יום מקסים לא",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "6cc9dc93-b890-48bd-8ff6-91277eec7c4c",
+    "parts": [ {
+      "text": "יום טוב",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "2718be99-041f-43ed-ae5f-1a131b807573",
+    "parts": [ {
+      "text": "שוב שלום",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "d71ad8ac-6437-4241-b3b7-30588d3c2a45",
+    "parts": [ {
+      "text": "מזמן לא התראנו",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "id": "8c508081-184c-4c4e-b9c5-36948ef0bf6d",
+    "parts": [ {
+      "text": "שלום",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  } ]
+}

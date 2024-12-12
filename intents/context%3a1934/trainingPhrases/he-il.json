@@ -1,0 +1,29 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "מבקש להדביר יתושים בגינה",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "parts": [ {
+      "text": "נא הדברת יתושים",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "parts": [ {
+      "text": "יתושים"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "parts": [ {
+      "text": "ייתושים"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  } ]
+}

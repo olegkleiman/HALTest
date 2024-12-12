@@ -1,0 +1,11 @@
+{
+  "name": "6cc349ef-2566-4bc5-a425-1842bdb0aac6",
+  "displayName": "context:1934",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "יתושים הדברה שעות יום - 1934",
+  "numTrainingPhrases": 4
+}

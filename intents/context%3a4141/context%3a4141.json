@@ -1,0 +1,11 @@
+{
+  "name": "025a0934-f4fd-48c5-bc59-99219fb6e6d6",
+  "displayName": "context:4141",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "רכב חונה במדרכה",
+  "numTrainingPhrases": 1
+}

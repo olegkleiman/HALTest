@@ -1,0 +1,11 @@
+{
+  "name": "7b99f680-5ab0-4384-a316-e502c1665e0b",
+  "displayName": "gis:592",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "Shelter",
+  "numTrainingPhrases": 1
+}

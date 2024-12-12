@@ -1,0 +1,11 @@
+{
+  "name": "d7f5eb98-3072-4506-9a45-d9baded8506e",
+  "displayName": "context:2496",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "אשפתון רחוב – פינוי",
+  "numTrainingPhrases": 6
+}

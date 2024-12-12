@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "ספסל שבור",
+    "synonyms": [ "ספסל שבור" ],
+    "languageCode": "he-il"
+  }, {
+    "value": "ספסל לא תקין",
+    "synonyms": [ "ספסל לא תקין" ],
+    "languageCode": "he-il"
+  } ]
+}

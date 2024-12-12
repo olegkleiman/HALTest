@@ -1,0 +1,11 @@
+{
+  "name": "ae9b0717-d60e-4db9-ba23-843423cc4c8a",
+  "displayName": "gis:478",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "Defibrillator",
+  "numTrainingPhrases": 1
+}

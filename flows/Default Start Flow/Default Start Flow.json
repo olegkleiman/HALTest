@@ -1,0 +1,115 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "היי! מה שלומך?" ]
+        },
+        "languageCode": "he-il"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "End Flow",
+    "name": "292ec6ac-3445-4d0a-ad73-3679fcb15edf",
+    "description": "Simple description"
+  }, {
+    "intent": "context:1969",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "1969" ]
+        },
+        "languageCode": "he-il"
+      } ]
+    },
+    "targetPage": "End Flow",
+    "name": "bdf8797a-6f04-4c2b-846a-423626999344"
+  }, {
+    "intent": "context:1934",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "1934" ]
+        },
+        "languageCode": "he-il"
+      } ]
+    },
+    "targetPage": "End Flow",
+    "name": "9431f065-ae17-4b37-880b-adc1ab8af362"
+  }, {
+    "intent": "context:2513",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "2513" ]
+        },
+        "languageCode": "he-il"
+      } ]
+    },
+    "targetPage": "End Flow",
+    "name": "da7c1fbb-d448-47e0-ae5b-6927607b6820"
+  }, {
+    "intent": "context:2496",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "2496" ]
+        },
+        "languageCode": "he-il"
+      } ]
+    },
+    "targetPage": "End Flow",
+    "name": "4fa302dc-88cf-4986-a850-aaa7d603d25b"
+  }, {
+    "intent": "context:4141",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "4141" ]
+        },
+        "languageCode": "he-il"
+      } ]
+    },
+    "targetPage": "End Flow",
+    "name": "21cd36bf-476f-45d4-bea4-9db3d4810f5e"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "לא הבנתי. אתה יכול להגיד את זה שוב?", "לא הבנתי את מה שאמרת. מה זה היה?", "אני מתנצל, אתה יכול לומר את זה שוב?", "אני מתנצל, אתה יכול להגיד את זה שוב?", "האם אתה יכול לומר זאת שוב?", "אני מתנצל, לא הבנתי את זה. אתה יכול לנסח מחדש?", "סליחה, מה זה היה?", "עוד פעם אחת?", "מה זה היה?", "תגיד את זה עוד פעם אחת?", "לא הבנתי את זה. אתה יכול לחזור?", "לא הבנתי, תגיד את זה שוב?" ]
+        },
+        "languageCode": "he-il"
+      } ]
+    },
+    "name": "dddcfaf9-7ecb-4af1-857f-d22820c9239c"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "לא הבנתי. אתה יכול להגיד את זה שוב?", "לא הבנתי את מה שאמרת. מה זה היה?", "אני מתנצל, אתה יכול לומר את זה שוב?", "אני מתנצל, אתה יכול להגיד את זה שוב?", "האם אתה יכול לומר זאת שוב?", "אני מתנצל, לא הבנתי את זה. אתה יכול לנסח מחדש?", "סליחה, מה זה היה?", "עוד פעם אחת?", "מה זה היה?", "תגיד את זה עוד פעם אחת?", "לא הבנתי את זה. אתה יכול לחזור?", "לא הבנתי, תגיד את זה שוב?" ]
+        },
+        "languageCode": "he-il"
+      } ]
+    },
+    "name": "9e59dd2b-9610-4711-8220-6049b58c6b9b"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  },
+  "nluSettingsList": [ {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "customConfigKey": "e6283244-a25e-4736-863a-5990670677b7",
+    "languageCode": "he-il"
+  } ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "52311e59-5332-44ee-a7ef-61f37f62fbf9",
+  "displayName": "context:1969",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "ספסל מלוכלך - לא מחזיר הודעות על שינוי סטאטוס",
+  "numTrainingPhrases": 4
+}

@@ -1,0 +1,32 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "ספסל שבור בגינה",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "parts": [ {
+      "text": "ספסל שבור ברחוב",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "parts": [ {
+      "text": "ספסל שבור",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  }, {
+    "parts": [ {
+      "text": "ספסל"
+    }, {
+      "text": " מלוכלך"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "he-il"
+  } ]
+}
